@@ -1,0 +1,38 @@
+body {
+    background-color: #f4f7fb;
+}
+
+
+.card {
+    border-radius: 15px;
+}
+
+
+h1 {
+    font-weight: 700;
+}
+
+
+.btn-primary {
+    padding: 12px 35px;
+    border-radius: 25px;
+}
+
+
+.form-label {
+    font-weight: 600;
+}
+
+.alert {
+    border-radius: 15px;
+    padding: 25px;
+}
+
+
+.alert h2 {
+    font-weight: 700;
+}
+
+footer {
+    font-size: 14px;
+}
