@@ -323,7 +323,7 @@ http://127.0.0.1:5000/
 
 Shows the customer input form for entering customer details.
 
-![Home Page](screenshots/Home Page.png)
+![Home Page](screenshots/home_page.png)
 
 ---
 
@@ -331,7 +331,7 @@ Shows the customer input form for entering customer details.
 
 Example of a customer predicted as high churn risk with probability and recommendation.
 
-![High Churn Prediction](screenshots/Churn Prediction.png)
+![High Churn Prediction](screenshots/high_churn_prediction.png)
 
 ---
 
@@ -339,7 +339,7 @@ Example of a customer predicted as high churn risk with probability and recommen
 
 Example of a customer predicted as low churn risk.
 
-![Low Churn Prediction](screenshots/No Churn Prediction.png)
+![Low Churn Prediction](screenshots/low_churn_prediction.png)
 
 ---
 
